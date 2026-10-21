@@ -1,0 +1,12 @@
+{
+  "name": "dusk-supply",
+  "owner": { "name": "DUSK Supply", "email": "hello@dusk.supply" },
+  "description": "DUSK Supply plugins",
+  "plugins": [
+    {
+      "name": "dawn-makes-motion",
+      "source": "./",
+      "description": "Local-first Claude Code plugin for researching, planning, scripting, rendering, clipping and packaging faceless YouTube channels."
+    }
+  ]
+}
